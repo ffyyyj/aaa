@@ -2,7 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 ///luohui is sb
+<<<<<<< Updated upstream
 /// //????
+=======
+/// 
+/// 
+/// 
+/// 到此一游
+/// ???????????
+>>>>>>> Stashed changes
 public class GodPersonCameraViewer : MonoBehaviour {
 	private Transform ViewPoint;
 	private Transform subViewPoint;
