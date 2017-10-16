@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-///liyangxin is 23333
+///luohui is sb
 public class GodPersonCameraViewer : MonoBehaviour {
 	private Transform ViewPoint;
 	private Transform subViewPoint;
