@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-///liyangxin
+///liyangxin is 23333
 public class GodPersonCameraViewer : MonoBehaviour {
 	private Transform ViewPoint;
 	private Transform subViewPoint;
