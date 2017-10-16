@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 ///luohui is sb
+/// //????
 public class GodPersonCameraViewer : MonoBehaviour {
 	private Transform ViewPoint;
 	private Transform subViewPoint;
